@@ -1,6 +1,6 @@
-# Project 3: Web APIs & Classification
+# Digital Nomadism Classification
 
-### Riche Ngo, SG-DSI-18
+### Riche Ngo
 
 ## Introduction
 
